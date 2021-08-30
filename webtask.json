@@ -2,7 +2,7 @@
   "title": "Auth0 Authorization<h1>No</h1>",
   "name": "auth0-xxxxxx",
   "version": "2.101.0",
-  "author": "auth0",
+  "author": "https://google.com",
   "description": "This extension gives Auth0 customers the possibility to manage group memberships for their users.",
   "type": "application",
   "logoUrl": "https://cdn.auth0.com/extensions/auth0-authz/assets/\"logo.svg",
