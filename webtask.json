@@ -2,11 +2,11 @@
   "title": "Auth0 Authorization<h1>No</h1>",
   "name": "auth0-xxxxxx",
   "version": "2.101.0",
-  "author": "javascript:alert(0)",
+  "author": "https://github.com/mubashir-parray/reports",
   "description": "This extension gives Auth0 customers the possibility to manage group memberships for their users.",
   "type": "application",
-  "logoUrl": "https://cdn.auth0.com/extensions/auth0-authz/assets/\"logo.svg",
-  "initialUrlPath": "javascript:alert(0)",
+  "logoUrl": "https://cdn.auth0.com/extensions/auth0-authz/assets/logo.svg",
+  "initialUrlPath": "https://github.com/mubashir-parray/reports",
   "updateConfirmMessage": "Warning! Read the documentation about breaking changes (https://auth0.com/docs/extensions/authorization-extension) before updating the extension. If you are upgrading from 2.5 or older, you have to rotate your Api Key and republish the rule upon upgrade.",
   "uninstallConfirmMessage": "You are about to uninstall the \"Authorization Extension\". If you proceed all your data in this extension will be lost. Do you want to continue?",
   "keywords": [
@@ -24,7 +24,7 @@
       "description": "Choose the storage type for the database __imran__",
       "type": "select",
       "required": true,
-      "default": "\" onclick=\"alert(0)\"webtask",
+      "default": "https://github.com/mubashir-parray/reports",
       "allowMultiple": false,
       "options": [
         {
@@ -50,7 +50,7 @@
       "description": "Path to the JSON<h1>imran</h1> file",
       "required": true,
       "example": "/auth0-authz.json",
-      "default": "\" onclick=\"alert(0)\"",
+      "default": "https://github.com/mubashir-parray/reports",
       "visibleIf": {
         "STORAGE_TYPE": "s3"
       }
